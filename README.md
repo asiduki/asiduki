@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asiduki
 - my name is Udit Jadon
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning dsa
+- 🌱 I’m currently learning DSA
   
 
 <!---
