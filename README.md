@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @asiduki
-- my name is Udit Jadon
+- 👋 Hi, I’m Udit Jadon
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning DSA
   
