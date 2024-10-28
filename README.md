@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Udit Jadon
 - 👀 I’m interested in web development and also in DSA
 - 🌱 I’m currently learning DSA
-- - 📫 How to reach me -- udithakur436@gmail.com
+- 📫 How to reach me -- udithakur436@gmail.com
   
 
 <!---
