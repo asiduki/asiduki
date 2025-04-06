@@ -12,4 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 💬 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiduki&layout=compact&theme=react&hide_border=false&langs_count=8)
 --->
+
