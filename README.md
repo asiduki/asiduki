@@ -2,6 +2,8 @@
 - 👀 I’m interested in web development also in DSA
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me -- udithakur436@gmail.com
+- [![Asiduki's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiduki)](https://github.com/asiduki/github-readme-stats)
+
   
 
 <!---
