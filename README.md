@@ -1,5 +1,113 @@
-- 👋 Hi, I’m Udit Jadon
-- 📫 How to reach me -- udithakur436@gmail.com
+# Hi 👋, I'm Udit Jadon
+
+### Full Stack Developer | MERN Stack Developer | Computer Science Student
+
+Passionate about building scalable full-stack web applications, solving real-world problems, and continuously learning modern technologies.
+
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer specializing in the **MERN Stack**
+- 🎓 B.Tech Computer Science Engineering Student (2022–2026)
+- 🌱 Currently learning **Next.js, TypeScript, System Design, and Cloud Technologies**
+- 🔭 Building scalable web applications with **React.js, Next.js, Node.js, Express.js, and MongoDB**
+- ⚡ Experienced in developing **REST APIs, JWT Authentication, Socket.IO, and Real-Time Applications**
+- 🤝 Open to collaborating on **Open Source** and **Full Stack Development** projects
+- 🎯 Passionate about writing clean, efficient, and maintainable code
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Frontend
+
+React.js • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Framer Motion
+
+## ⚙️ Backend
+
+Node.js • Express.js • REST APIs • JWT Authentication • Socket.IO
+
+## 🗄️ Databases
+
+MongoDB • MySQL
+
+## 🛠️ Tools & Platforms
+
+Git • GitHub • Postman • Vercel • Render • VS Code
+
+---
+
+# 🚀 Featured Projects
+
+### 💻 Real-Time Code Editing System
+
+- Multi-user collaborative code editor
+- Real-time synchronization using Socket.IO
+- JWT Authentication & Cookie-based Sessions
+- Room-based collaboration
+- MongoDB database integration
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • Socket.IO • Recoil • CodeMirror • Tailwind CSS
+
+---
+
+### 💬 Real-Time Chat Application
+
+- Instant messaging with WebSockets
+- Secure backend with Express.js
+- MongoDB message storage
+- Modern responsive UI using Tailwind CSS
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • Socket.IO
+
+---
+
+### 🤖 AI Text Enhancer
+
+- AI-powered text improvement tool
+- Google Generative AI integration
+- Interactive and responsive UI
+- Smooth loading and typing animations
+
+**Tech:** React.js • Express.js • Tailwind CSS • Google Generative AI API
+
+---
+
+# 📈 Currently Learning
+
+- Advanced Next.js
+- TypeScript
+- Cloud Computing
+
+---
+
+# 🎯 Goals
+
+- Build scalable production-ready applications
+- Contribute to Open Source
+- Improve Backend Engineering skills
+- Become a Software Engineer
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** udithakur436@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/udit-jadon-199024297/
+
+💻 **GitHub:**  
+https://github.com/asiduki
+
+---
+
+## 💡 Quote
+
+> **"Code. Learn. Build. Improve. Repeat."**
+
+⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
   
 <!---
    [![Asiduki's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiduki)](https://github.com/asiduki/github-readme-stats)
