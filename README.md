@@ -95,16 +95,9 @@ Git • GitHub • Postman • Vercel • Render • VS Code
 
 📧 **Email:** udithakur436@gmail.com
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/udit-jadon-199024297/
+💼 **LinkedIn:**  https://www.linkedin.com/in/udit-jadon-199024297/
 
-💻 **GitHub:**  
-https://github.com/asiduki
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiduki&show_icons=true&theme=tokyonight" />
-</p>
+💻 **GitHub:**  https://github.com/asiduki
 
 ## 💡 Quote
 
