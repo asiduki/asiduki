@@ -102,6 +102,15 @@ https://www.linkedin.com/in/udit-jadon-199024297/
 https://github.com/asiduki
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asiduki&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiduki&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 💡 Quote
 
