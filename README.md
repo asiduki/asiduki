@@ -105,7 +105,7 @@ Git • GitHub • Postman • Vercel • Render • VS Code
 
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asiduki&theme=dark&hide_border=false)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=asiduki&theme=dark&hide_border=false)](https://git.io/streak-stats) --->
   
 <!---
    [![Asiduki's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiduki)](https://github.com/asiduki/github-readme-stats)
