@@ -7,7 +7,18 @@
 Passionate about building scalable full-stack web applications, solving real-world problems, and continuously learning modern technologies.
 
 ---
+<p>
+<a href="https://github.com/asiduki">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
+<a href="https://linkedin.com/in/udit-jadon-199024297">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=asiduki&style=for-the-badge&color=blue"/>
+
+</p>
 ## 🚀 About Me
 
 - 💻 Full Stack Developer specializing in the **MERN Stack**
@@ -19,8 +30,20 @@ Passionate about building scalable full-stack web applications, solving real-wor
 - 🎯 Passionate about writing clean, efficient, and maintainable code
 
 ---
+<!-- <p>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=asiduki&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiduki&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p> -->
 
 # 🛠️ Tech Stack
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,tailwind,git,github,vscode&perline=12"/>
+
+</p>
 
 ## 💻 Frontend
 
@@ -106,6 +129,11 @@ Git • GitHub • Postman • Vercel • Render • VS Code
 > **"Code. Learn. Build. Improve. Repeat."**
 
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/asiduki/asiduki/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 <!---
  [![GitHub Streak](https://streak-stats.demolab.com?user=asiduki&theme=dark&hide_border=false)](https://git.io/streak-stats) 
