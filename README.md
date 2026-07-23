@@ -22,13 +22,7 @@ Passionate about building scalable full-stack web applications, solving real-wor
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer specializing in the **MERN Stack**
-- 🎓 B.Tech Computer Science Engineering Student (2022–2026)
-- 🌱 Currently learning **Next.js, TypeScript, System Design, and Cloud Technologies**
-- 🔭 Building scalable web applications with **React.js, Next.js, Node.js, Express.js, and MongoDB**
-- ⚡ Experienced in developing **REST APIs, JWT Authentication, Socket.IO, and Real-Time Applications**
-- 🤝 Open to collaborating on **Open Source** and **Full Stack Development** projects
-- 🎯 Passionate about writing clean, efficient, and maintainable code
+
 
 ---
 <!-- <p>
