@@ -21,6 +21,7 @@ Passionate about building scalable full-stack web applications, solving real-wor
 </p>
 
 ## 🚀 About Me
+<img width="1536" height="1024" alt="ChatGPT Image Jul 23, 2026, 02_19_14 PM" src="https://github.com/user-attachments/assets/c32bbe91-d4c6-4ebd-af59-ac69cc5db7df" />
 
 
 
