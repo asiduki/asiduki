@@ -6,8 +6,7 @@
 
 Passionate about building scalable full-stack web applications, solving real-world problems, and continuously learning modern technologies.
 
----
-<p>
+<!-- <p>
 <a href="https://github.com/asiduki">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -34,7 +33,7 @@ Passionate about building scalable full-stack web applications, solving real-wor
 
 </p> -->
 
-# 🛠️ Tech Stack
+<!-- # 🛠️ Tech Stack
 <p>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,tailwind,git,github,vscode&perline=12"/>
@@ -129,7 +128,7 @@ Git • GitHub • Postman • Vercel • Render • VS Code
 
 <img src="https://raw.githubusercontent.com/asiduki/asiduki/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</p> -->
 
 <!---
  [![GitHub Streak](https://streak-stats.demolab.com?user=asiduki&theme=dark&hide_border=false)](https://git.io/streak-stats) 
