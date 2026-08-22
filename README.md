@@ -6,9 +6,9 @@
 
 Passionate about building scalable full-stack web applications, solving real-world problems, and continuously learning modern technologies.
 <p>
-<a href="https://github.com/asiduki">
+<!-- <a href="https://github.com/asiduki">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+</a> -->
 
 <a href="https://linkedin.com/in/udit-jadon-199024297">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
