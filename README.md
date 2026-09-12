@@ -28,6 +28,8 @@ Passionate about building scalable full-stack web applications, solving real-wor
 
 </p
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=asiduki&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 <!-- <p>
 <img src="https://komarev.com/ghpvc/?username=asiduki&style=for-the-badge&color=blue"/>
