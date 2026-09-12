@@ -11,13 +11,25 @@ Passionate about building scalable full-stack web applications, solving real-wor
 </a> -->
 
 <a href="https://linkedin.com/in/udit-jadon-199024297">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:udithakur436@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 
+## 🚀 About Me
+<img width="1536" height="1024" alt="ChatGPT Image Jul 23, 2026, 02_19_14 PM" src="https://github.com/user-attachments/assets/c32bbe91-d4c6-4ebd-af59-ac69cc5db7df" />
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/asiduki/asiduki/output/github-contribution-grid-snake-dark.svg"/>
+
+</p
 </p>
 <!-- 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=asiduki&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🚀 About Me
 <img width="1536" height="1024" alt="ChatGPT Image Jul 23, 2026, 02_19_14 PM" src="https://github.com/user-attachments/assets/c32bbe91-d4c6-4ebd-af59-ac69cc5db7df" />
@@ -28,7 +40,7 @@ Passionate about building scalable full-stack web applications, solving real-wor
 
 </p
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=asiduki&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 <!-- <p>
