@@ -1,6 +1,8 @@
-<p align="left">
+<!-- <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=48&duration=2500&pause=1000&color=00F7FF&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Udit+Jadon" alt="Typing SVG" />
-</p>
+</p> -->
+
+ <h1>Hi, I'm Udit Jadon</h1>
 
 ### Full Stack Developer | MERN Stack Developer | Computer Science Student
 
